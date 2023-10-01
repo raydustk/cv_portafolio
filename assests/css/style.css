@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer p {
+    font-size: x-small;
+}
+
+.max-height {
+    height: 100vh;
+}
+
+.container-main-info {
+    height: 100vh;
+    overflow-y: scroll;
+}
