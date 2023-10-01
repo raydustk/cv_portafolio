@@ -9,3 +9,8 @@ Creación del currículum vitae junto al portafolio que contiene los proyectos t
 
 
 Pages: https://acalderont.github.io/cv_portafolio
+
+
+Se colabora en los siguientes proyetos:
+- https://github.com/olimaCampos/camilocv
+- https://github.com/Noxvill/noxvill.github.io/pull/3
